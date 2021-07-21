@@ -1,6 +1,7 @@
 # Letterpress Helper
 
-Helper (or cheating if you'd like) tool for the word game Letterpress
+Helper (or cheating if you'd like) tool for the word game Letterpress.
+
 It is based on my previous Scrabble calculator pet project with Flask, Bootstrap & FontAwesome
 
 Demo: TBD
