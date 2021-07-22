@@ -2,7 +2,7 @@ import random
 import timeit
 
 # Load Word dictionaries from text files.
-EN_FILENAME = './app/static/Scrabble.txt'  # Scrabble EN word list
+EN_FILENAME = './app/static/en.txt'  # Letterpress EN word list
 with open(EN_FILENAME, encoding='utf-8') as en_file:
     EN_WORDS = set(en_file.read().splitlines())
 
