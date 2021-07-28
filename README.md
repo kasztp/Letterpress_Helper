@@ -3,7 +3,7 @@
 Helper (or cheating if you'd like) tool for the word game Letterpress.
 It is based on my previous Scrabble calculator pet project with Flask, Bootstrap & FontAwesome
 
-Demo: TBD
+Demo: https://1jv60mb69b.execute-api.eu-central-1.amazonaws.com/dev
 
 ## Authors
 

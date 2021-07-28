@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "letterpress.app",
+        "profile_name": "default",
+        "project_name": "letterpress_helper",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-letterpress-helper",
+        "aws_region": "eu-central-1",
+    }
+}
